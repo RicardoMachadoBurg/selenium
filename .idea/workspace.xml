@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1c8d8be-457b-44cb-9697-6bb6c4cd462c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJtZAtQdstWAFxxipvdkvHR97P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainSuite">
+    <configuration name="ComponentesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.tests" />
+      <option name="MAIN_CLASS_NAME" value="selenium.tests.ComponentesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentesTest.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.tests" />
+      <option name="MAIN_CLASS_NAME" value="selenium.tests.ComponentesTest" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComponentesTest.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.tests" />
+      <option name="MAIN_CLASS_NAME" value="selenium.tests.ComponentesTest" />
+      <option name="METHOD_NAME" value="Test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.suites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.suites" />
+      <option name="MAIN_CLASS_NAME" value="selenium.suites.MainSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainSuite" />
+        <item itemvalue="JUnit.ComponentesTest.Test1" />
+        <item itemvalue="JUnit.ComponentesTest.Test2" />
+        <item itemvalue="JUnit.ComponentesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1c8d8be-457b-44cb-9697-6bb6c4cd462c" name="Default Changelist" comment="" />
+      <created>1582672577716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582672577716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure" timestamp="1583792366327">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1583792366327" />
+    <state x="766" y="398" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583798409543">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1582846286478" />
+    <state x="766" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583798409543" />
+    <state x="294" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1582846282507">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="294" y="54" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/67.27.1299.741@67.27.1299.741" timestamp="1582846282507" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584278545398">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.3219.1053@67.27.3219.1053" timestamp="1584278545398" />
+    <state x="526" y="258" width="489" height="567" key="DetectedRootsChooserDialog" timestamp="1583798304345">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="526" y="258" width="489" height="567" key="DetectedRootsChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583798304345" />
+    <state x="683" y="209" width="735" height="513" key="FileChooserDialogImpl" timestamp="1583968412840">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582849367544" />
+    <state x="683" y="209" width="735" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583968412840" />
+    <state width="1807" height="315" key="GridCell.Tab.0.bottom" timestamp="1584314022492">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state width="1807" height="315" key="GridCell.Tab.0.bottom/67.27.3219.1053@67.27.3219.1053" timestamp="1584314022492" />
+    <state width="1807" height="315" key="GridCell.Tab.0.center" timestamp="1584314022490">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state width="1807" height="315" key="GridCell.Tab.0.center/67.27.3219.1053@67.27.3219.1053" timestamp="1584314022490" />
+    <state width="1807" height="315" key="GridCell.Tab.0.left" timestamp="1584314022488">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state width="1807" height="315" key="GridCell.Tab.0.left/67.27.3219.1053@67.27.3219.1053" timestamp="1584314022488" />
+    <state width="1807" height="315" key="GridCell.Tab.0.right" timestamp="1584314022492">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state width="1807" height="315" key="GridCell.Tab.0.right/67.27.3219.1053@67.27.3219.1053" timestamp="1584314022492" />
+    <state x="2148" y="0" width="1024" height="768" key="SettingsEditor" timestamp="1584208099358">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582849372399" />
+    <state x="556" y="304" width="1024" height="730" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583965247500" />
+    <state x="2148" y="0" width="1024" height="768" key="SettingsEditor/67.27.3219.1053@67.27.3219.1053" timestamp="1584208099358" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582674434567">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582674434567" />
+    <state x="389" y="293" width="646" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582848705426">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="389" y="293" width="646" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1299.741@67.27.1299.741" timestamp="1582848705426" />
+    <state x="345" y="27" width="1013" height="1053" key="find.popup" timestamp="1583793290538">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="262" y="27" width="710" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1582846790357" />
+    <state x="345" y="27" width="1013" height="1053" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583793290538" />
+    <state x="364" y="112" width="1372" height="568" key="new project wizard" timestamp="1583791769405">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="364" y="112" width="1372" height="568" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1583791769405" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1584277836294">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.3219.1053@67.27.3219.1053" timestamp="1584277836294" />
+    <state x="656" y="257" key="search.everywhere.popup" timestamp="1584293659129">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state x="656" y="257" key="search.everywhere.popup/67.27.3219.1053@67.27.3219.1053" timestamp="1584293659129" />
+  </component>
+</project>
